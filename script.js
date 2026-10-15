@@ -135,7 +135,7 @@ function animate(now) {
     drawHeart(progress);
 
     if (progress >= 1) {
-      message.textContent = "I Love You Saru ❤️";
+      message.textContent = "I Love You Jaan, Meri bachi ❤️";
       message.classList.add("show");
     }
   }
